@@ -15,7 +15,3 @@ module.exports = function getHTML (options, callback) {
     });
   });  
 };
-
-function printHTML (html) {
-  console.log(html);
-}
